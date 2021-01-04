@@ -116,7 +116,7 @@ Github list of [NomadCoders](https://nomadcoders.co/)
 |                                                       | SkynI           | [@SkynI25](https://github.com/SkynI25)                 |
 |                                                       | snoop2head      | [@snoop2head](https://github.com/snoop2head)           |
 |                                                       | SR              | [@seokrae](https://github.com/seokrae)                 |
-|                                                       | Steveyyy        | [@hyunjaesung](https://github.com/hyunjaesung)         |
+| [stevy](https://nomadcoders.co/users/stevy)           | Stevy           | [@hyunjaesung](https://github.com/hyunjaesung)         |
 |                                                       | Sungkuk Kim     | [@sungkuk5420](https://github.com/sungkuk5420)         |
 |                                                       | teapotsoup      | [@teapotsoup](https://github.com/teapotsoup)           |
 |                                                       | Tia             | [@tiahwang](https://github.com/tiahwang)               |
